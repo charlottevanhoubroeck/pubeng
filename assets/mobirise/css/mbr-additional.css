@@ -2,7 +2,6 @@
 
 
 
-
 #header4-3 H1 {
   font-family: 'Lora', serif;
   font-size: 14px;
@@ -14,10 +13,6 @@
   font-size: 24px;
   color: #fcfced;
   text-align: center;
-}
-#header4-3 .btn {
-  font-size: 11px;
-  font-family: 'Lora', serif;
 }
 #ext_menu-6 .mbr-brand__name {
   font-size: 16px;
@@ -686,7 +681,7 @@
 
 #content5-55 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fbfcee;
+  color: #ffffff;
   font-family: 'Lora', serif;
 }
 #content5-55 .mbr-header .mbr-header__subtext {
@@ -701,13 +696,9 @@
   font-size: 13px;
   font-family: 'Lora', serif;
   text-align: left;
-  color: #fbfcee;
 }
 #content5-55 .mbr-article LI {
   text-align: center;
-}
-#content5-55 .mbr-header .mbr-header__subtext SPAN {
-  color: #fbfcee;
 }
 #msg-box3-61 .mbr-header .mbr-header__text {
   text-align: center;
