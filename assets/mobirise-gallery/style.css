@@ -83,15 +83,15 @@
 .mbr-gallery .modal .close {
     position: absolute;
     background-image: none;
-    font-size: 20px;
+    font-size: 12px;
     width: 54px;
     height: 54px;
     top: 20px;
     right: 20px;
     line-height: 54px;
     opacity: 1;
-    color: #fff;
-    border: 2px solid #fff;
+    color: #4c6972;
+    border: 0px solid #fff;
     text-align: center;
     text-shadow: none;
     z-index: 5;
